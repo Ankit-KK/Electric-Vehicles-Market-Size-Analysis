@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive analysis of the electric vehicle (EV) market using real-world registration data. Our project explores key trends and forecasts in EV adoption, offering insights into the evolving landscape of sustainable transportation.
 
-![Image Alt Text]([path/to/your/image.png](https://github.com/Ankit-KK/Electric-Vehicles-Market-Size-Analysis/blob/main/mind-mapEV.png))
+![Image Alt Text](https://github.com/Ankit-KK/Electric-Vehicles-Market-Size-Analysis/blob/main/mind-mapEV.png)
 
 
 
